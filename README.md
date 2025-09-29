@@ -1,1 +1,4 @@
-# upgraded-waddle
+{
+  "title": "Compliment of the Hour",
+  "message": "You're doing great work — keep it up!\n(Also: don't forget to hydrate.)"
+}
